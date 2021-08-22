@@ -12,4 +12,5 @@ namespace JSON_Inventory
 
         public int Price { get; set; }
     }
+
 }
