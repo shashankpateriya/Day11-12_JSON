@@ -16,5 +16,6 @@ namespace JSON_Inventory
             inventories = JsonConvert.DeserializeObject<List<Inventory>>(text);
             return inventories;
         }
+
     }
 }
