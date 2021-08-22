@@ -19,5 +19,6 @@ namespace JSON_Inventory
                 Console.WriteLine("Price : " + i.Price);
             }
         }
+
     }
 }
